@@ -16,29 +16,65 @@ We here gather few of the publications which had at least one author affiliated 
 We list here all our collected Computer Vision Datasets.
 
 * Image Classification
-  * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
-  * Player identification in different sports
-  * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
-  * Parallel extraction hand vein biometric parameter's using a low cost IR imaging system
-  * Recognition of Arabic handwritten words using convolutional neural network
-  * GC3558: An open-source annotated dataset of Ghana currency images for classification modeling
-  * 2D geometric shapes dataset – for machine learning and pattern recognition
-  * Sika Deer Facial Recognition Model Based on SE-ResNet
-  * Yarn Tensile Properties Modeling Using Artificial Intelligence
-  * LBP–Bilateral Based Feature Fusion for Breast Cancer Diagnosis
-  * Sign Language Recognition Using Multiple Kernel Learning: A Case Study of Pakistan Sign Language
-  * An Efficient Machine Learning-Based Model to Effectively Classify the Type of Noises in QR Code: A Hybrid Approach
-  * A dataset of necrotized cassava root cross-section images
-  * PGTLP: A Dataset for Tunisian License Plate Detection and Recognition
-  * Arasti: A database for Arabic scene text recognition
-  * Poultry fecal imagery dataset for health status prediction: A case of South-West Nigeria
-  * Tsetse fly wing landmark data for morphometrics
-  * Nigeria Food Ai Dataset
-  * Kenya Crop Type Detection
-  * Bill Classification in Tunisia Challenge
-  * Computer Vision for License Plate Recognition Challenge
-  * Animal Classification Challenge
-  * Turtle Recall: Conservation Challenge
+ * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
+ * Player identification in different sports
+ * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
+ * Parallel extraction hand vein biometric parameter's using a low cost IR imaging system
+ * Recognition of Arabic handwritten words using convolutional neural network
+ * GC3558: An open-source annotated dataset of Ghana currency images for classification modeling
+ * 2D geometric shapes dataset – for machine learning and pattern recognition
+ * Sika Deer Facial Recognition Model Based on SE-ResNet
+ * Yarn Tensile Properties Modeling Using Artificial Intelligence
+ * LBP–Bilateral Based Feature Fusion for Breast Cancer Diagnosis
+ * Sign Language Recognition Using Multiple Kernel Learning: A Case Study of Pakistan Sign Language
+ * An Efficient Machine Learning-Based Model to Effectively Classify the Type of Noises in QR Code: A Hybrid Approach
+ * A dataset of necrotized cassava root cross-section images
+ * PGTLP: A Dataset for Tunisian License Plate Detection and Recognition
+ * Arasti: A database for Arabic scene text recognition
+ * Poultry fecal imagery dataset for health status prediction: A case of South-West Nigeria
+ * Tsetse fly wing landmark data for morphometrics
+ * Nigeria Food Ai Dataset
+ * Kenya Crop Type Detection
+ * Bill Classification in Tunisia Challenge
+ * Computer Vision for License Plate Recognition Challenge
+ * Animal Classification Challenge
+ * Turtle Recall: Conservation Challenge
+ * Detection of Locusta migratoria and Nomadacris septemfasciata (Orthoptera: Acrididae) Using MobileNet V2 Quantized Convolution Neural Network, Kazungula, Zambia
+ * SID-Avatar database: A 3D Avatar Dataset for virtual world research
+ * Android-based object recognition for the visually impaired
+ * A New Benchmark Dataset for Egyptian License Plate Detection and Recognition
+ * 11K Hands: Gender recognition and biometric identification using a large dataset of hand images
+ * An image dataset of text patches in everyday scenes
+ * CArDIS: A Swedish Historical Handwritten Character and Word Dataset
+ * SHIBR—The Swedish Historical Birth Records: a semi-annotated dataset
+ * Extracting text from scanned Arabic books: a large-scale benchmark dataset and a fine-tuned Faster-R-CNN model
+ * Local features enhancement using deep auto-encoder scheme for the recognition of the proposed handwritten Arabic-Maghrebi characters database
+ * QTID: Quran Text Image Dataset
+ * Amharic text image recognition: Database, algorithm, and analysis
+ * A two-stage system for Arabic handwritten digit recognition tested on a new large database
+ * Task Mate Kenyan Sign Language Classification Challenge
+ * SOUTHERN AFRICA 003 Computer Vision Project
+ * GREAT ZIMBABWE Computer Vision Project
+ * SOUTHERN AFRICA 004 Computer Vision Project
+ * Deep reinforcement learning approach for manuscripts image classification and retrieval
+ * COVID19 classification using CT images via ensembles of deep learning models
+ * The achievement of higher flexibility in multiple-choice-based tests using image classification techniques
+ * Mapping of land-cover change analysis in Ma’rib at Yemen using remote sensing and GIS techniques
+ * Classification of artefacts in endoscopic images using deep neural network
+ * Deep Learning Models for Predicting COVID-19 Using Chest X-Ray Images
+ * Discriminating the Pneumonia-Positive Images from COVID-19-Positive Images Using an Integrated Convolutional Neural Network
+ * Transfer Learning and Data Augmentation Based CNN Model for Potato Late Blight Disease Detection
+ * MIIA Pothole Image Classification Challenge
+ * Road Segment Identification
+ * ICLR Workshop Challenge #1: CGIAR Computer Vision for Crop Disease
+ * Microsoft Rice Disease Classification Challenge
+ * Makerere Passion Fruit Disease Detection Challenge
+ * Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge
+ * Makerere Fall Armyworm Crop Challenge
+ * African Human Historical Image Dataset
+ * African Human Expression Image Dataset
+ * African Human Face with Occlusion Image Dataset
+ * African Children Facial Image Dataset
 
 * Object Detection
   * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
