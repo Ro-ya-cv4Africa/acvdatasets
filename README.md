@@ -16,17 +16,89 @@ We here gather few of the publications which had at least one author affiliated 
 We list here all our collected Computer Vision Datasets.
 
 * Image Classification
+  * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
+  * Player identification in different sports
+  * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
+  * Parallel extraction hand vein biometric parameter's using a low cost IR imaging system
+  * Recognition of Arabic handwritten words using convolutional neural network
+  * GC3558: An open-source annotated dataset of Ghana currency images for classification modeling
+  * 2D geometric shapes dataset – for machine learning and pattern recognition
+  * Sika Deer Facial Recognition Model Based on SE-ResNet
+  * Yarn Tensile Properties Modeling Using Artificial Intelligence
+  * LBP–Bilateral Based Feature Fusion for Breast Cancer Diagnosis
+  * Sign Language Recognition Using Multiple Kernel Learning: A Case Study of Pakistan Sign Language
+  * An Efficient Machine Learning-Based Model to Effectively Classify the Type of Noises in QR Code: A Hybrid Approach
+  * A dataset of necrotized cassava root cross-section images
+  * PGTLP: A Dataset for Tunisian License Plate Detection and Recognition
+  * Arasti: A database for Arabic scene text recognition
+  * Poultry fecal imagery dataset for health status prediction: A case of South-West Nigeria
+  * Tsetse fly wing landmark data for morphometrics
+  * Nigeria Food Ai Dataset
+  * Kenya Crop Type Detection
+  * Bill Classification in Tunisia Challenge
+  * Computer Vision for License Plate Recognition Challenge
+  * Animal Classification Challenge
+  * Turtle Recall: Conservation Challenge
 
 * Object Detection
+  * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
+  * TNCR: Table net detection and classification dataset
+  * Automatic roadway features detection with oriented object detection
+  * A Comparison of Deep Learning Methods for Inebriation Recognition in Humans
+  * Analysis of traditional computer vision techniques used for hemp leaf water stress detection and classification
+  * Detection of degraded acacia tree species using deep neural networks on uav drone imagery
+  * COVID-19 risk reduce based YOLOv4-P6-FaceMask detector and DeepSORT tracker
+  * Yolov4FaceMask: COVID-19 Mask Detector
+  * An Image Dataset for Lung Disease Detection and Classification
+  * Dashcam based wildlife detection and classification using fused data sets of digital photographic and simulated imagery
+  * A Weakly Supervised Deep Learning Approach for Detecting Malaria and Sickle Cells in Blood Films
+  * Quantitative analysis of blood cells from microscopic images using convolutional neural network
+  * A New Benchmark Dataset for Egyptian License Plate Detection and Recognition
+  * A dataset of cassava whitefly count images
+  * SOUTHERN AFRICA 003 Computer Vision Project
+  * GREAT ZIMBABWE Computer Vision Project
+  * SOUTHERN AFRICA 004 Computer Vision Project
 
 * Humans: Face, Body, Pose, Gesture, Movement
+  * New challenges of face detection in paintings based on deep learning
+  * Transfer Learning and Recurrent Neural Networks for Automatic Arabic Sign Language Recognition
+  * Applying Deep Learning and Computer Vision Techniques for an e-Sport and Smart Coaching System Using a Multiview Dataset: Case of Shotokan Karate
+  * Ego4D: Around the World in 3,000 Hours of Egocentric Video
+  * LeapGestureDB: A Public Leap Motion Database Applied for Dynamic Hand Gesture Recognition in Surgical Procedures
+  * Kinship Verification from Gait?
+  * Unsupervised facial expressions recognition and avatar reconstruction from kinect
+  * CASIA-Face-Africa: A Large-Scale African Face Image Database
+  * Spot the Mask Challenge
+  * Task Mate Kenyan Sign Language Classification Challenge
 
 * Forests, Plants, Agriculture related
+  * Detection of Locusta migratoria and Nomadacris septemfasciata (Orthoptera: Acrididae) Using MobileNet V2 Quantized Convolution Neural Network, Kazungula, Zambia
+  * Determination of the age of oil palm from crown projection area detected from WorldView-2 multispectral remote sensing data: The case of Ejisu-Juaben district, Ghana
+  * Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification
+  * Transfer Learning and Data Augmentation Based CNN Model for Potato Late Blight Disease Detection
+  * Arabica coffee leaf images dataset for coffee leaf disease detection and classification
+  * Digital Africa Plantation Counting Challenge
+  * Eyes on the Ground Image data
+  * Machine Learning Datasets for Crop Pest and Disease Diagnosis: Crop Imagery and Spectrometry Data
 
 * Document Analysis and Understanding
+  * Deep reinforcement learning approach for manuscripts image classification and retrieval
+  * The achievement of higher flexibility in multiple-choice-based tests using image classification techniques
+  * KOHTD: Kazakh offline handwritten text dataset
+  * An image dataset of text patches in everyday scenes
+  * CArDIS: A Swedish Historical Handwritten Character and Word Dataset
+  * SHIBR—The Swedish Historical Birth Records: a semi-annotated dataset
+  * HBA 1.0: A pixel-based annotated dataset for historical book analysis
+  * Extracting text from scanned Arabic books: a large-scale benchmark dataset and a fine-tuned Faster-R-CNN model
+  * Database for Arabic printed text recognition research
+  * AHWR-Net: offline handwritten amharic word recognition using convolutional recurrent neural network
+  * Local features enhancement using deep auto-encoder scheme for the recognition of the proposed handwritten Arabic-Maghrebi characters database
+  * QTID: Quran Text Image Dataset
+  * Amharic text image recognition: Database, algorithm, and analysis
+  * A two-stage system for Arabic handwritten digit recognition tested on a new large database
+  * Title Extraction in Lecture Slides Challenge by ITU AI/ML in 5G Challenge
 
 * Image Segmentation
-  
   * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
   * Deep learning approach for urban mapping
   * An Encoder-Decoder U-Net Based Model for Overheated Photovoltaic Modules Extraction from Orthorectified Remotely Sensed Thermal Infrared UAV Imagery
