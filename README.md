@@ -26,6 +26,14 @@ We list here all our collected Computer Vision Datasets.
 * Document Analysis and Understanding
 
 * Image Segmentation
+  
+  * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
+  * Deep learning approach for urban mapping
+  * An Encoder-Decoder U-Net Based Model for Overheated Photovoltaic Modules Extraction from Orthorectified Remotely Sensed Thermal Infrared UAV Imagery
+  * GIS based mapping of land cover changes utilizing multi-temporal remotely sensed image data in Lake Hawassa Watershed, Ethiopia
+  * Benchmarking of wildland fire colour segmentation algorithms
+  * A comprehensive computer-assisted diagnosis system for early assessment of renal cancer tumors
+  * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
 
 * Photogrammetry and Remote Sensing
 
