@@ -18,7 +18,7 @@ We list here all our collected Computer Vision Datasets.
 Categories provided:
 * [Image Classification](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#image-classification)
 * Computer Vision for Social Good
-* Object Detection
+* [Object Detection](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#object-detection)
 * Humans
 * Agriculture related
 * Document Analysis
@@ -92,6 +92,49 @@ Publications list:
   * African Human Expression Image Dataset
   * African Human Face with Occlusion Image Dataset
   * African Children Facial Image Dataset
+    
+### Computer Vision for Social Good
+  * An efficient object detection system for indoor assistance navigation using deep learning techniques
+  * Indoor objects detection and recognition for an ICT mobility assistance of visually impaired people
+  * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
+  * Android-based object recognition for the visually impaired
+  * Characterisation of urban environment and activity across space and time using street images and deep learning in Accra
+  * Performance benchmarking of YOLO architectures for vehicle license plate detection from real-time videos captured by a mobile robot
+  * RailEnV-PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring a virtual railway environment for multi-view stereopsis training and reconstruction applications
+  * PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring specular material properties for multi-view stereopsis training and reconstruction applications
+  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
+  * Multi-class Weather Dataset for Image Classification
+  * PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring specular material properties for multi-view stereopsis training and reconstruction applications
+  * Dataset of photographed lightning events attaching to and around the Brixton tower, Johannesburg, South Africa for the 2015-2016 thunderstorm season.
+  * Kinship Verification from Gait?
+  * Unsupervised facial expressions recognition and avatar reconstruction from kinect
+  * Satellite Images to predict poverty
+  * Eyes on the Ground Image data
+  * Machine Learning Datasets for Crop Pest and Disease Diagnosis: Crop Imagery and Spectrometry Data
+  * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
+  * Semantic attributes for people's appearance description: An appearance modality for video surveillance applications
+  * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
+  * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
+  * Player identification in different sports
+  * An efficient object detection system for indoor assistance navigation using deep learning techniques
+  * SID-Avatar database: A 3D Avatar Dataset for virtual world research
+  * Automatic detection of archaeological sites using a hybrid process of remote sensing, Gis techniques and a shape detection algorithm
+  * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
+  * Transfer Learning and Recurrent Neural Networks for Automatic Arabic Sign Language Recognition
+  * Applying Deep Learning and Computer Vision Techniques for an e-Sport and Smart Coaching System Using a Multiview Dataset: Case of Shotokan Karate
+  * RailEnV-PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring a virtual railway environment for multi-view stereopsis training and reconstruction applications
+  * Benchmarking of wildland fire colour segmentation algorithms
+  * Database for Arabic printed text recognition research
+  * AHWR-Net: offline handwritten amharic word recognition using convolutional recurrent neural network
+  * Yarn Tensile Properties Modeling Using Artificial Intelligence
+  * Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation
+  * Arasti: A database for Arabic scene text recognition
+  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
+  * CASIA-Face-Africa: A Large-Scale African Face Image Database
+  * ZeroWaste Dataset: Towards Deformable Object Segmentation in Cluttered Scenes
+  * Tsetse fly wing landmark data for morphometrics
+  * Nigeria Food Ai Dataset
+  * Wax-MNIST
 
  ### Object Detection
   * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
@@ -223,50 +266,7 @@ Publications list:
   * GIS based mapping of land cover changes utilizing multi-temporal remotely sensed image data in Lake Hawassa Watershed, Ethiopia
   * Effects of Land cover change on Great Apes distribution at the Lobéké National Park and its surrounding Forest Management Units, South-East Cameroon. A 13 year time series analysis
   * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
-    
-### Computer Vision for Social Good
-  * An efficient object detection system for indoor assistance navigation using deep learning techniques
-  * Indoor objects detection and recognition for an ICT mobility assistance of visually impaired people
-  * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
-  * Android-based object recognition for the visually impaired
-  * Characterisation of urban environment and activity across space and time using street images and deep learning in Accra
-  * Performance benchmarking of YOLO architectures for vehicle license plate detection from real-time videos captured by a mobile robot
-  * RailEnV-PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring a virtual railway environment for multi-view stereopsis training and reconstruction applications
-  * PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring specular material properties for multi-view stereopsis training and reconstruction applications
-  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
-  * Multi-class Weather Dataset for Image Classification
-  * PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring specular material properties for multi-view stereopsis training and reconstruction applications
-  * Dataset of photographed lightning events attaching to and around the Brixton tower, Johannesburg, South Africa for the 2015-2016 thunderstorm season.
-  * Kinship Verification from Gait?
-  * Unsupervised facial expressions recognition and avatar reconstruction from kinect
-  * Satellite Images to predict poverty
-  * Eyes on the Ground Image data
-  * Machine Learning Datasets for Crop Pest and Disease Diagnosis: Crop Imagery and Spectrometry Data
-  * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
-  * Semantic attributes for people's appearance description: An appearance modality for video surveillance applications
-  * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
-  * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
-  * Player identification in different sports
-  * An efficient object detection system for indoor assistance navigation using deep learning techniques
-  * SID-Avatar database: A 3D Avatar Dataset for virtual world research
-  * Automatic detection of archaeological sites using a hybrid process of remote sensing, Gis techniques and a shape detection algorithm
-  * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
-  * Transfer Learning and Recurrent Neural Networks for Automatic Arabic Sign Language Recognition
-  * Applying Deep Learning and Computer Vision Techniques for an e-Sport and Smart Coaching System Using a Multiview Dataset: Case of Shotokan Karate
-  * RailEnV-PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring a virtual railway environment for multi-view stereopsis training and reconstruction applications
-  * Benchmarking of wildland fire colour segmentation algorithms
-  * Database for Arabic printed text recognition research
-  * AHWR-Net: offline handwritten amharic word recognition using convolutional recurrent neural network
-  * Yarn Tensile Properties Modeling Using Artificial Intelligence
-  * Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation
-  * Arasti: A database for Arabic scene text recognition
-  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
-  * CASIA-Face-Africa: A Large-Scale African Face Image Database
-  * ZeroWaste Dataset: Towards Deformable Object Segmentation in Cluttered Scenes
-  * Tsetse fly wing landmark data for morphometrics
-  * Nigeria Food Ai Dataset
-  * Wax-MNIST
-    
+        
 ### Medical and Biological Vision
   * COVID19 classification using CT images via ensembles of deep learning models
   * Classification of artefacts in endoscopic images using deep neural network
