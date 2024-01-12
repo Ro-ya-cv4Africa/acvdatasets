@@ -208,29 +208,84 @@ We list here all our collected Computer Vision Datasets.
   * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
     
 * Computer Vision for Social Good
-
+  * An efficient object detection system for indoor assistance navigation using deep learning techniques
+  * Indoor objects detection and recognition for an ICT mobility assistance of visually impaired people
+  * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
+  * Android-based object recognition for the visually impaired
+  * Characterisation of urban environment and activity across space and time using street images and deep learning in Accra
+  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
+  * Wax-MNIST
+  * Kinship Verification from Gait?
+  * Satellite Images to predict poverty
+  * Eyes on the Ground Image data
+  * Machine Learning Datasets for Crop Pest and Disease Diagnosis: Crop Imagery and Spectrometry Data
+    
 * Medical and Biological Vision
-
+  * COVID19 classification using CT images via ensembles of deep learning models
+  * Classification of artefacts in endoscopic images using deep neural network
+  * Deep Learning Models for Predicting COVID-19 Using Chest X-Ray Images
+  * Discriminating the Pneumonia-Positive Images from COVID-19-Positive Images Using an Integrated Convolutional Neural Network
+  * Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge
+  * An Image Dataset for Lung Disease Detection and Classification
+  * A Weakly Supervised Deep Learning Approach for Detecting Malaria and Sickle Cells in Blood Films
+  * Quantitative analysis of blood cells from microscopic images using convolutional neural network
+  * A comprehensive computer-assisted diagnosis system for early assessment of renal cancer tumors
+  * LBP–Bilateral Based Feature Fusion for Breast Cancer Diagnosis
+    
 * Animals, Wildlife related
-
+  * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
+  * Dashcam based wildlife detection and classification using fused data sets of digital photographic and simulated imagery
+  * Effects of Land cover change on Great Apes distribution at the Lobéké National Park and its surrounding Forest Management Units, South-East Cameroon. A 13 year time series analysis
+  * Sika Deer Facial Recognition Model Based on SE-ResNet
+  * A camera trap assessment of terrestrial vertebrates in Bwindi Impenetrable National Park, Uganda
+  * Local Ocean Conservation Sea Turtle Face Detection
+  * Animal Classification Challenge
+  * Turtle Recall: Conservation Challenge
+    
 * Autonomous Driving
-
+  * ATTICA: A Dataset for Arabic Text-Based Traffic Panels Detection
+  * Traffic Signs Detection for Real-World Application of an Advanced Driving Assisting System Using Deep Learning
+  * Automatic roadway features detection with oriented object detection
+  * OLIMP: A heterogeneous multimodal dataset for advanced environment perception
+  * Mining road map from big database of GPS data
+  * MDAD: A Multimodal and Multiview in-Vehicle Driver Action Dataset
+  * MIIA Pothole Image Classification Challenge
+    
 * Video: Action and Event Understanding
-
+  * Dataset of photographed lightning events attaching to and around the Brixton tower, Johannesburg, South Africa for the 2015-2016 thunderstorm season.
+  * ValS: A Leading Visual and Inertial Dataset of Squats
+  * A camera trap assessment of terrestrial vertebrates in Bwindi Impenetrable National Park, Uganda
+  * MDAD: A Multimodal and Multiview in-Vehicle Driver Action Dataset
+  * Ego4D: Around the World in 3,000 Hours of Egocentric Video
+  * LeapGestureDB: A Public Leap Motion Database Applied for Dynamic Hand Gesture Recognition in Surgical Procedures
+    
 * Biometrics
-
+  * 11K Hands: Gender recognition and biometric identification using a large dataset of hand images
+  * African Human Selfie & ID Card Image Dataset
+  * CASIA-Iris-Africa
+  * Parallel extraction hand vein biometric parameter's using a low cost IR imaging system
+  
 * Multi-modal Learning
-
+  * OLIMP: A heterogeneous multimodal dataset for advanced environment perception
+  * Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation
+  * Neural Fashion Image Captioning: Accounting for Data Diversity
+  
 * 3D from Multi-view and Sensors
-
+  * RailEnV-PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring a virtual railway environment for multi-view stereopsis training and reconstruction applications
+  * PASMVS: A perfectly accurate, synthetic, path-traced dataset featuring specular material properties for multi-view stereopsis training and reconstruction applications
+  
 * Climate related
-
-* 3D from Single Images 
-
+  * Multi-class Weather Dataset for Image Classification
+  * Dataset of photographed lightning events attaching to and around the Brixton tower, Johannesburg, South Africa for the 2015-2016 thunderstorm season.
+  
 * Construction related
-
-* Archeology related
-
+  * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
+  * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
+  
+* Archaeology related
+  * Automatic detection of archaeological sites using a hybrid process of remote sensing, Gis techniques and a shape detection algorithm
+  * Building and evaluation of an Algerian Cultural Heritage dataset using convolutional neural networks
+  
 * Landmark Detection
 
 * Robotics
