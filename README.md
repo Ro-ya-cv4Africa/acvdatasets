@@ -19,17 +19,17 @@ Categories provided:
 * [Image Classification](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#image-classification)
 * [Computer Vision for Social Good](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#computer-vision-for-social-good)
 * [Object Detection](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#object-detection)
-* Humans: Face, Body, Pose, Gesture, Movement
-* Agriculture related
-* Document Analysis
-* Image Segmentation
-* Remote Sensing
-* Medical Vision
-* Wildlife related
-* Autonomous Driving
-* Action Understanding
-* Biometrics
-* Multi-modal Learning
+* [Humans: Face, Body, Pose, Gesture, Movement](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#humans-face-body-pose-gesture-movement)
+* [Forest, Plants, Agriculture related](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#forests-plants-agriculture-related)
+* [Document Analysis and Understanding](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#document-analysis-and-understanding)
+* [Image Segmentation](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#image-segmentation)
+* [Photogrammetry and Remote Sensing](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#photogrammetry-and-remote-sensing)
+* [Medical and Biological Vision](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#medical-and-biological-vision)
+* [Animals, Wildlife related](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#animals-wildlife-related)
+* [Autonomous Driving](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#autonomous-driving)
+* [Video: Action and Event Understanding](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#video-action-and-event-understanding)
+* [Biometrics](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#biometrics)
+* [Multi-modal Learning](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#multi-modal-learning)
 
 Publications list:
 ### Image Classification
