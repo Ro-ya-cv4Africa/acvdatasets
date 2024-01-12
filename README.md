@@ -31,7 +31,8 @@ Categories provided:
 * Biometrics
 * Multi-modal Learning
 
-* Image Classification
+Publications list:
+### Image Classification
   * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
   * Player identification in different sports
   * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
@@ -92,7 +93,7 @@ Categories provided:
   * African Human Face with Occlusion Image Dataset
   * African Children Facial Image Dataset
 
-* Object Detection
+ ### Object Detection
   * A Curated Dataset for Crack Image Analysis: Experimental Verification and Future Perspectives
   * TNCR: Table net detection and classification dataset
   * Automatic roadway features detection with oriented object detection
@@ -130,7 +131,7 @@ Categories provided:
   * Digital Africa Plantation Counting Challenge
   * Title Extraction in Lecture Slides Challenge by ITU AI/ML in 5G Challenge
 
-* Humans: Face, Body, Pose, Gesture, Movement
+ ### Humans: Face, Body, Pose, Gesture, Movement
   * New challenges of face detection in paintings based on deep learning
   * Transfer Learning and Recurrent Neural Networks for Automatic Arabic Sign Language Recognition
   * Applying Deep Learning and Computer Vision Techniques for an e-Sport and Smart Coaching System Using a Multiview Dataset: Case of Shotokan Karate
@@ -154,7 +155,7 @@ Categories provided:
   * African Children Facial Image Dataset
   * CASIA-Iris-Africa
 
-* Forests, Plants, Agriculture related
+ ### Forests, Plants, Agriculture related
   * Detection of Locusta migratoria and Nomadacris septemfasciata (Orthoptera: Acrididae) Using MobileNet V2 Quantized Convolution Neural Network, Kazungula, Zambia
   * Determination of the age of oil palm from crown projection area detected from WorldView-2 multispectral remote sensing data: The case of Ejisu-Juaben district, Ghana
   * Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification
@@ -174,7 +175,7 @@ Categories provided:
   * Makerere Fall Armyworm Crop Challenge
   * Detection of degraded acacia tree species using deep neural networks on uav drone imagery
   
-* Document Analysis and Understanding
+ ### Document Analysis and Understanding
   * Deep reinforcement learning approach for manuscripts image classification and retrieval
   * The achievement of higher flexibility in multiple-choice-based tests using image classification techniques
   * KOHTD: Kazakh offline handwritten text dataset
@@ -193,7 +194,7 @@ Categories provided:
   * TNCR: Table net detection and classification dataset
   * Recognition of Arabic handwritten words using convolutional neural network
     
-* Image Segmentation
+ ### Image Segmentation
   * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
   * Deep learning approach for urban mapping
   * An Encoder-Decoder U-Net Based Model for Overheated Photovoltaic Modules Extraction from Orthorectified Remotely Sensed Thermal Infrared UAV Imagery
@@ -209,7 +210,7 @@ Categories provided:
   * Spot the Mask Challenge
   * Road Segment Identification
   
-* Photogrammetry and Remote Sensing
+ ### Photogrammetry and Remote Sensing
   * Assessing soil cover levels during the non-growing season using multitemporal satellite imagery and spectral unmixing techniques
   * Automatic detection of archaeological sites using a hybrid process of remote sensing, Gis techniques and a shape detection algorithm
   * Mapping of land-cover change analysis in Ma’rib at Yemen using remote sensing and GIS techniques
@@ -223,7 +224,7 @@ Categories provided:
   * Effects of Land cover change on Great Apes distribution at the Lobéké National Park and its surrounding Forest Management Units, South-East Cameroon. A 13 year time series analysis
   * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
     
-* Computer Vision for Social Good
+### Computer Vision for Social Good
   * An efficient object detection system for indoor assistance navigation using deep learning techniques
   * Indoor objects detection and recognition for an ICT mobility assistance of visually impaired people
   * Improved Use of Drone Imagery for Malaria Vector Control through Technology-Assisted Digitizing (TAD)
@@ -266,7 +267,7 @@ Categories provided:
   * Nigeria Food Ai Dataset
   * Wax-MNIST
     
-* Medical and Biological Vision
+### Medical and Biological Vision
   * COVID19 classification using CT images via ensembles of deep learning models
   * Classification of artefacts in endoscopic images using deep neural network
   * Deep Learning Models for Predicting COVID-19 Using Chest X-Ray Images
@@ -278,7 +279,7 @@ Categories provided:
   * A comprehensive computer-assisted diagnosis system for early assessment of renal cancer tumors
   * LBP–Bilateral Based Feature Fusion for Breast Cancer Diagnosis
     
-* Animals, Wildlife related
+### Animals, Wildlife related
   * DSAIL-Porini: Annotated camera trap image data of wildlife species from a conservancy in Kenya
   * Dashcam based wildlife detection and classification using fused data sets of digital photographic and simulated imagery
   * Effects of Land cover change on Great Apes distribution at the Lobéké National Park and its surrounding Forest Management Units, South-East Cameroon. A 13 year time series analysis
@@ -288,7 +289,7 @@ Categories provided:
   * Animal Classification Challenge
   * Turtle Recall: Conservation Challenge
     
-* Autonomous Driving
+### Autonomous Driving
   * ATTICA: A Dataset for Arabic Text-Based Traffic Panels Detection
   * Traffic Signs Detection for Real-World Application of an Advanced Driving Assisting System Using Deep Learning
   * Automatic roadway features detection with oriented object detection
@@ -297,7 +298,7 @@ Categories provided:
   * MDAD: A Multimodal and Multiview in-Vehicle Driver Action Dataset
   * MIIA Pothole Image Classification Challenge
     
-* Video: Action and Event Understanding
+### Video: Action and Event Understanding
   * Dataset of photographed lightning events attaching to and around the Brixton tower, Johannesburg, South Africa for the 2015-2016 thunderstorm season.
   * ValS: A Leading Visual and Inertial Dataset of Squats
   * A camera trap assessment of terrestrial vertebrates in Bwindi Impenetrable National Park, Uganda
@@ -305,13 +306,13 @@ Categories provided:
   * Ego4D: Around the World in 3,000 Hours of Egocentric Video
   * LeapGestureDB: A Public Leap Motion Database Applied for Dynamic Hand Gesture Recognition in Surgical Procedures
     
-* Biometrics
+### Biometrics
   * 11K Hands: Gender recognition and biometric identification using a large dataset of hand images
   * African Human Selfie & ID Card Image Dataset
   * CASIA-Iris-Africa
   * Parallel extraction hand vein biometric parameter's using a low cost IR imaging system
   
-* Multi-modal Learning
+### Multi-modal Learning
   * OLIMP: A heterogeneous multimodal dataset for advanced environment perception
   * Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation
   * Neural Fashion Image Captioning: Accounting for Data Diversity
