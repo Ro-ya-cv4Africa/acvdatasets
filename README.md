@@ -94,6 +94,25 @@ We list here all our collected Computer Vision Datasets.
   * SOUTHERN AFRICA 003 Computer Vision Project
   * GREAT ZIMBABWE Computer Vision Project
   * SOUTHERN AFRICA 004 Computer Vision Project
+  * An efficient object detection system for indoor assistance navigation using deep learning techniques
+  * New challenges of face detection in paintings based on deep learning
+  * Indoor objects detection and recognition for an ICT mobility assistance of visually impaired people
+  * KOHTD: Kazakh offline handwritten text dataset
+  * Arabica coffee leaf images dataset for coffee leaf disease detection and classification
+  * ATTICA: A Dataset for Arabic Text-Based Traffic Panels Detection
+  * Characterisation of urban environment and activity across space and time using street images and deep learning in Accra
+  * GC3558: An open-source annotated dataset of Ghana currency images for classification modeling
+  * Performance benchmarking of YOLO architectures for vehicle license plate detection from real-time videos captured by a mobile robot
+  * Traffic Signs Detection for Real-World Application of an Advanced Driving Assisting System Using Deep Learning
+  * 2D geometric shapes dataset – for machine learning and pattern recognition
+  * An Efficient Machine Learning-Based Model to Effectively Classify the Type of Noises in QR Code: A Hybrid Approach
+  * PGTLP: A Dataset for Tunisian License Plate Detection and Recognition
+  * ZeroWaste Dataset: Towards Deformable Object Segmentation in Cluttered Scenes
+  * Local Ocean Conservation Sea Turtle Face Detection
+  * Bill Classification in Tunisia Challenge
+  * Computer Vision for License Plate Recognition Challenge
+  * Digital Africa Plantation Counting Challenge
+  * Title Extraction in Lecture Slides Challenge by ITU AI/ML in 5G Challenge
 
 * Humans: Face, Body, Pose, Gesture, Movement
   * New challenges of face detection in paintings based on deep learning
@@ -106,6 +125,18 @@ We list here all our collected Computer Vision Datasets.
   * CASIA-Face-Africa: A Large-Scale African Face Image Database
   * Spot the Mask Challenge
   * Task Mate Kenyan Sign Language Classification Challenge
+  * Semantic attributes for people's appearance description: An appearance modality for video surveillance applications
+  * A Comparison of Deep Learning Methods for Inebriation Recognition in Humans
+  * COVID-19 risk reduce based YOLOv4-P6-FaceMask detector and DeepSORT tracker
+  * Yolov4FaceMask: COVID-19 Mask Detector
+  * Sign Language Recognition Using Multiple Kernel Learning: A Case Study of Pakistan Sign Language
+  * ValS: A Leading Visual and Inertial Dataset of Squats
+  * African Human Historical Image Dataset
+  * African Human Expression Image Dataset
+  * African Human Selfie & ID Card Image Dataset
+  * African Human Face with Occlusion Image Dataset
+  * African Children Facial Image Dataset
+  * CASIA-Iris-Africa
 
 * Forests, Plants, Agriculture related
   * Detection of Locusta migratoria and Nomadacris septemfasciata (Orthoptera: Acrididae) Using MobileNet V2 Quantized Convolution Neural Network, Kazungula, Zambia
@@ -116,7 +147,17 @@ We list here all our collected Computer Vision Datasets.
   * Digital Africa Plantation Counting Challenge
   * Eyes on the Ground Image data
   * Machine Learning Datasets for Crop Pest and Disease Diagnosis: Crop Imagery and Spectrometry Data
-
+  * Analysis of traditional computer vision techniques used for hemp leaf water stress detection and classification
+  * Assessing soil cover levels during the non-growing season using multitemporal satellite imagery and spectral unmixing techniques
+  * A dataset of cassava whitefly count images
+  * A dataset of necrotized cassava root cross-section images
+  * Kenya Crop Type Detection
+  * ICLR Workshop Challenge #1: CGIAR Computer Vision for Crop Disease
+  * Microsoft Rice Disease Classification Challenge
+  * Makerere Passion Fruit Disease Detection Challenge
+  * Makerere Fall Armyworm Crop Challenge
+  * Detection of degraded acacia tree species using deep neural networks on uav drone imagery
+  
 * Document Analysis and Understanding
   * Deep reinforcement learning approach for manuscripts image classification and retrieval
   * The achievement of higher flexibility in multiple-choice-based tests using image classification techniques
@@ -133,7 +174,9 @@ We list here all our collected Computer Vision Datasets.
   * Amharic text image recognition: Database, algorithm, and analysis
   * A two-stage system for Arabic handwritten digit recognition tested on a new large database
   * Title Extraction in Lecture Slides Challenge by ITU AI/ML in 5G Challenge
-
+  * TNCR: Table net detection and classification dataset
+  * Recognition of Arabic handwritten words using convolutional neural network
+    
 * Image Segmentation
   * Concrete Bridge Defects Identification and Localization Based on Classification Deep Convolutional Neural Networks and Transfer Learning
   * Deep learning approach for urban mapping
@@ -142,9 +185,28 @@ We list here all our collected Computer Vision Datasets.
   * Benchmarking of wildland fire colour segmentation algorithms
   * A comprehensive computer-assisted diagnosis system for early assessment of renal cancer tumors
   * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
-
+  * Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification
+  * HBA 1.0: A pixel-based annotated dataset for historical book analysis
+  * Land use / land cover map of Vavatenina region (Madagascar) produced by object-based analysis of very high spatial resolution satellite images and geospatial reference data.
+  * Poultry fecal imagery dataset for health status prediction: A case of South-West Nigeria
+  * Multi-class Weather Dataset for Image Classification
+  * Spot the Mask Challenge
+  * Road Segment Identification
+  
 * Photogrammetry and Remote Sensing
-
+  * Assessing soil cover levels during the non-growing season using multitemporal satellite imagery and spectral unmixing techniques
+  * Automatic detection of archaeological sites using a hybrid process of remote sensing, Gis techniques and a shape detection algorithm
+  * Mapping of land-cover change analysis in Ma’rib at Yemen using remote sensing and GIS techniques
+  * Land use / land cover map of Vavatenina region (Madagascar) produced by object-based analysis of very high spatial resolution satellite images and geospatial reference data.
+  * Mining road map from big database of GPS data
+  * Satellite Images to predict poverty
+  * Deep learning approach for urban mapping
+  * An Encoder-Decoder U-Net Based Model for Overheated Photovoltaic Modules Extraction from Orthorectified Remotely Sensed Thermal Infrared UAV Imagery
+  * Determination of the age of oil palm from crown projection area detected from WorldView-2 multispectral remote sensing data: The case of Ejisu-Juaben district, Ghana
+  * GIS based mapping of land cover changes utilizing multi-temporal remotely sensed image data in Lake Hawassa Watershed, Ethiopia
+  * Effects of Land cover change on Great Apes distribution at the Lobéké National Park and its surrounding Forest Management Units, South-East Cameroon. A 13 year time series analysis
+  * Constructing a Visual Dataset to Study the Effects of Spatial Apartheid in South Africa
+    
 * Computer Vision for Social Good
 
 * Medical and Biological Vision
