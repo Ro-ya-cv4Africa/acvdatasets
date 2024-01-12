@@ -17,9 +17,9 @@ We list here all our collected Computer Vision Datasets.
 
 Categories provided:
 * [Image Classification](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#image-classification)
-* Computer Vision for Social Good
+* [Computer Vision for Social Good](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#computer-vision-for-social-good)
 * [Object Detection](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#object-detection)
-* Humans
+* Humans: Face, Body, Pose, Gesture, Movement
 * Agriculture related
 * Document Analysis
 * Image Segmentation
