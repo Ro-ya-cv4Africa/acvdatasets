@@ -16,7 +16,7 @@ We here gather few of the publications which had at least one author affiliated 
 We list here all our collected Computer Vision Datasets.
 
 Categories provided:
-* Image Classification
+* [Image Classification](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#image-classification)
 * Computer Vision for Social Good
 * Object Detection
 * Humans
