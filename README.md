@@ -7,7 +7,7 @@ We here gather few of the publications which had at least one author affiliated 
 |---|---|---|---|---|
 | Action and Event Understanding / Humans: Face, Body, Pose, Gesture, Movement| Ego4D Datase  | [Yes](https://ego4d-data.org)  | 2022  | CVPR  |
 | Object Detection / Waste Detection  | ZeroWaste  | [Yes](http://ai.bu.edu/zerowaste/)  | 2022  | CVPR  |
-| Multi-modal Learning / Image Captioning  | Hausa Visual Genome  | [Yes](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4749  | 2022  | LREC  |
+| Multi-modal Learning / Image Captioning  | Hausa Visual Genome  | [Yes](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4749)  | 2022  | LREC  |
 | Image Classification / Document Analysis and Understanding  | Scanned Arabic Books  | [Yes](https://github.com/wdqin/BE-Arabic-9K)  | 2021  | IJDAR  |
 | Object Detection / Medical and Biological Vision  | Malaria and Sickle Cells Detection  | Yes [part1](https://doi.org/10.5522/04/12173568), [part2](https://doi.org/10.5522/04/12407567)  | 2020  | MICCAI  |
 
