@@ -1,5 +1,5 @@
 # African Computer Vision Datasets and Researchers
-[Datasets]()
+[Datasets](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#officially-published-datasets)
 
 [Researchers](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#african-researchers-in-top-cvml-venues)
 
