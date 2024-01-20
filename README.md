@@ -369,7 +369,7 @@ We gather through automated ways from Scopus indexed publications and retrieving
 | Maher Mkhinini |Tunisia|
 | Ivan V. Baji | South Africa  |
 | Naima Otberdout | Morocco  |
-| Mohamed Daoudi | Daoudi  |
+| Mohamed Daoudi | Morocco  |
 | Andrew Markham | South Africa  |
 | Paul Amayo | South Africa  |
 | Jonathan Li | South Africa  |
