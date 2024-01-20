@@ -1,4 +1,6 @@
-# African Computer Vision Datasets
+# African Computer Vision Datasets and Researchers
+[Datasets]()
+[Researchers]()
 
 ## Officially published datasets
 We here gather few of the publications which had at least one author affiliated with an African institution.
@@ -30,7 +32,7 @@ Categories provided:
 * [Video: Action and Event Understanding](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#video-action-and-event-understanding)
 * [Biometrics](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#biometrics)
 * [Multi-modal Learning](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#multi-modal-learning)
-
+  
 Publications list:
 ### Image Classification
   * Historical-crack18-19: A dataset of annotated images for non-invasive surface crack detection in historical buildings
@@ -318,4 +320,58 @@ Publications list:
   * Neural Fashion Image Captioning: Accounting for Data Diversity
 
 
-# African Authors in top CV/ML Venues
+# African Researchers in top CV/ML Venues
+We gather through automated ways from Scopus indexed publications and retrieving the affiliation history of authors to identify African authors who are publishing with non African institutions. We here list the African authors that were identified using this mechanism. Note that authors who weren't able to publish back with African institutions are unfortunately not part of this set as it was created automatically.
+
+| Researcher Name  | Country  |
+|---|---|
+| Maher Mkhinini | Tunisia  |
+| Jonathan Warrell | South Africa  |
+| Abed Malti | Algeria |
+| Shireen Elhabian | Egypt |
+| Aly A. Farag |  Egypt |
+| Ahmed Elgammal| Egypt  |
+| Hicham Badri | Morocco  |
+| Hamid Laga | Algeria |
+| Aly S. Abdelrahim| Egypt  |
+| Mohamed Elhoseiny | Egypt  |
+| Mohamed Hefeeda | Egypt |
+| Mostafa Abdelrahman | Egypt |
+| Ahmed Nabil Belbachir | Algeria  |
+| Mostafa S. Ibrahim | Egypt  |
+| Abdelrahman Kamel | Egypt  |
+| Nazim Haouchine | Algeria  |
+| Hassen Drira | Tunisia  |
+| Abdelrahman Abdelhamed | Egypt  |
+| Mahmood Fathy| Egypt  |
+| Sarah Adel Bargal | Egypt |
+| Shafiq Joty | Egypt  |
+| Mahmoud Afifi | Egypt  |
+| Moustafa Meshry | Egypt  |
+| Mohamed Sabry Aly | Egypt  |
+| Abdallah Benzine | Algeria  |
+| Abdelrahman Eldesokey | Egypt  |
+| Omar Bourahla | Algeria  |
+| Yassine Ouali | Morocco  |
+| Ibrahim Abdelaziz | Egypt  |
+| N. Chehata |  Tunisia |
+| Aly Mohamed M. Sabry | Egypt  |
+| Ahmed Taha | Egypt  |
+| Hichem Snoussi | Tunisia  |
+| Rabab  Ward | Egypt  |
+| Sara  Elkerdawy | Egypt  |
+| Mostafa Elhoushi | Egypt  |
+| Kareem Metwaly | Egypt |
+| Mostafa Kahla | Egypt  |
+| Mennatullah Siam | Egypt  |
+| Nozha Boujemaa | Tunisia  |
+| Maher Mkhinini |Tunisia|
+| Ivan V. Baji | South Africa  |
+| Naima Otberdout | Morocco  |
+| Mohamed Daoudi | Daoudi  |
+| Andrew Markham | South Africa  |
+| Paul Amayo | South Africa  |
+| Jonathan Li | South Africa  |
+| Michael Burke | South Africa  |
+| Gerhard P. Hancke | South Africa  |
+
