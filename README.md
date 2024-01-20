@@ -344,7 +344,7 @@ We gather through automated ways from Scopus indexed publications and retrieving
 | Nazim Haouchine | Algeria  |
 | Hassen Drira | Tunisia  |
 | Abdelrahman Abdelhamed | Egypt  |
-| Mahmood Fathy| Egypt  |
+| Mohammad Fathy| Egypt  |
 | Sarah Adel Bargal | Egypt |
 | Shafiq Joty | Egypt  |
 | Mahmoud Afifi | Egypt  |
