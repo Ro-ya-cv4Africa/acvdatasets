@@ -326,8 +326,6 @@ We gather through automated ways from Scopus indexed publications and retrieving
 
 | Researcher Name  | Country  |
 |---|---|
-| Maher Mkhinini | Tunisia  |
-| Jonathan Warrell | South Africa  |
 | Abed Malti | Algeria |
 | Shireen Elhabian | Egypt |
 | Aly A. Farag |  Egypt |
@@ -375,4 +373,6 @@ We gather through automated ways from Scopus indexed publications and retrieving
 | Jonathan Li | South Africa  |
 | Michael Burke | South Africa  |
 | Gerhard P. Hancke | South Africa  |
+| Maher Mkhinini | Tunisia  |
+| Jonathan Warrell | South Africa  |
 
