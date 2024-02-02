@@ -365,12 +365,10 @@ We gather through automated ways from Scopus indexed publications and retrieving
 | Mennatullah Siam | Egypt  |
 | Nozha Boujemaa | Tunisia  |
 | Maher Mkhinini |Tunisia|
-| Ivan V. Baji | South Africa  |
 | Naima Otberdout | Morocco  |
 | Mohamed Daoudi | Morocco  |
 | Andrew Markham | South Africa  |
-| Paul Amayo | South Africa  |
-| Jonathan Li | South Africa  |
+| Paul Amayo | Kenya  |
 | Michael Burke | South Africa  |
 | Gerhard P. Hancke | South Africa  |
 | Maher Mkhinini | Tunisia  |
