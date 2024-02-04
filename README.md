@@ -3,6 +3,12 @@
 
 [Researchers](https://github.com/Ro-ya-cv4Africa/acvdatasets/blob/main/README.md#african-researchers-in-top-cvml-venues)
 
+ToDos:
+- [ ] Generate formal citations for the officially published datasets
+- [ ] Add the links to the challenges or data host platforms for the unofficial ones
+- [ ] Add the labels for datasets that might have ethical concerns
+- [ ] Add annotations of datasets from African institutions not necessarily about African data per se
+
 ## Officially published datasets
 We here gather few of the publications which had at least one author affiliated with an African institution.
 
